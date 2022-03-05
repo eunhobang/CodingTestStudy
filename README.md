@@ -4,7 +4,7 @@
 ## 학습 단계
 1. 파이썬 기본 문법 학습
 2. **CodeUp** 기본 100문제
-  [!바로가기](https://codeup.kr/problemsetsol.php?psid=33)
+  - [바로가기](https://codeup.kr/problemsetsol.php?psid=33)
 3. 백준 문제풀기
   - 그리디, 탐색, 기초 동적프로그래밍 50문제씩 풀기
 4. 기출문제 풀기
